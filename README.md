@@ -22,7 +22,7 @@ The data set we have chosen is one about supply and demand related to tourism by
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Emily Harvey: I am in my 3rd year of biology! I am excited to work on this project with my team members!
 - Person 2: one sentence about you!
 - Alyssa Hughes: I am in my final year of study in MGMT at UBCO! I am excited about learning more about our tourism dataset, and all the information we will be able to extract from it. 
 
