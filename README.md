@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5887515&assignment_repo_type=AssignmentRepo)
-# Group 05 - Tourism supply and demand within Canada
+# Group 05 - Tourism Supply and Demand within Canada
 
 - Your title can change over time.
 
@@ -9,7 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-We would like to analyze and compare various topics in relation to each other in our chosen tourism dataset. This could include comparing our chosen ideas from 2014 to 2017, as well as being able to compare the amount of tourism spending in different categories within the chosen dataset. As we live in an area with high tourism rates we would like to explore the growth trends of overall tourism in BC in comparison to Canada. Where are the majority of BCs tourists coming from: domestically or out-of-province? What is BCs overall tourism growth rate from 2014-2017? What is Canada's overall tourism growth rate in that same time? How do they compare? Are people spending more money on hotels or campsites when they visit? Is this different from Canada’s hotel/campsite statistics? Another point of interest would be tourist spending on alcohol. As well as, looking at what percentage of Canada’s profit from tourism comes from BC and which categories bring the most profit. We believe we could make a very interesting dashboard with our data set.
+We would like to analyze and compare various topics in relation to each other in our chosen tourism dataset. This could include comparing our chosen ideas from 2014 to 2017, as well as being able to compare the amount of tourism spending in different categories within the chosen dataset. As we live in an area with high tourism rates we would like to explore the growth trends of overall tourism in BC in comparison to Canada. We would like to explore:
+- Where are the majority of BCs tourists coming from: domestically or out-of-province? 
+- What is BCs overall tourism growth rate from 2014-2017? What is Canada's overall tourism growth rate in that same time? How do they compare?
+- Are people spending more money on hotels or campsites when they visit? Is this different from Canada’s hotel/campsite statistics? 
+Another point of interest would be tourist spending on alcohol. As well as, looking at what percentage of Canada’s profit from tourism comes from BC and which categories bring the most profit. We believe we could make a very interesting dashboard with our data set.
 
 ## Describe your dataset in about 150-200 words
 
