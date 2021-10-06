@@ -24,7 +24,7 @@ The data set we have chosen is one about supply and demand related to tourism by
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Alyssa Hughes: I am in my final year of study in MGMT at ubco! I am excited about learning more about our tourism dataset, and all the information we will be able to extract from it. 
+- Alyssa Hughes: I am in my final year of study in MGMT at UBCO! I am excited about learning more about our tourism dataset, and all the information we will be able to extract from it. 
 
 ## Images
 
