@@ -28,13 +28,12 @@ The data set we have chosen is one about supply and demand related to tourism by
 
 ## Images
 
-{You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+<img src ="Tourism-Kelowna.png" width="100px>
 
 ## References
 
-{Add your stuff here}
+Photo from https://www.tourismkelowna.com/ 
 
 
 
