@@ -29,7 +29,8 @@ The data set we have chosen is one about supply and demand related to tourism by
 ## Images
 
 
-<img src ="Tourism-Kelowna.png" width="100px>
+![Tourism-Kelowna](https://user-images.githubusercontent.com/90300721/136441107-9183d60e-2911-4403-97c9-246074048ec4.jpg)
+
 
 ## References
 
