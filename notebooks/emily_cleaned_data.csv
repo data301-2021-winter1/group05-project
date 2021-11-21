@@ -1,4 +1,4 @@
-,Year,Location,Indicators,Products,UOM,Scalar Factor,Value
+,Year,Geography,Indicators,Products,UOM,Scalar factor,Value
 0,2014,Canada,Total domestic supply,Total tourism expenditures,Dollars,millions,3654954.0
 1,2014,Canada,Total domestic supply,Total tourism products,Dollars,millions,212829.4
 2,2014,Canada,Total domestic supply,Total transportation,Dollars,millions,98108.0
@@ -237,38 +237,6 @@
 272,2014,Canada,International imports,Total food and beverage services,Dollars,millions,8527.7
 278,2014,Canada,International imports,Total other tourism products,Dollars,millions,4130.1
 283,2014,Canada,International imports,Total other products,Dollars,millions,6818.7
-288,2014,Canada,Tourism product ratio,Total tourism expenditures,Percentage,millions,2.3
-289,2014,Canada,Tourism product ratio,Total tourism products,Percentage,millions,33.4
-290,2014,Canada,Tourism product ratio,Total transportation,Percentage,millions,33.3
-291,2014,Canada,Tourism product ratio,Passenger air transport,Percentage,millions,85.4
-292,2014,Canada,Tourism product ratio,Passenger rail transport,Percentage,millions,93.4
-293,2014,Canada,Tourism product ratio,Passenger water transport,Percentage,millions,66.4
-294,2014,Canada,Tourism product ratio,"Interurban, charter and tour bus transport",Percentage,millions,29.6
-295,2014,Canada,Tourism product ratio,Taxis,Percentage,millions,18.6
-296,2014,Canada,Tourism product ratio,Vehicle rental,Percentage,millions,34.5
-297,2014,Canada,Tourism product ratio,Vehicle repairs and parts,Percentage,millions,18.2
-298,2014,Canada,Tourism product ratio,Vehicle fuel,Percentage,millions,18.2
-299,2014,Canada,Tourism product ratio,Total accommodation,Percentage,millions,86.9
-300,2014,Canada,Tourism product ratio,Hotels,Percentage,millions,87.3
-301,2014,Canada,Tourism product ratio,Motels,Percentage,millions,80.8
-302,2014,Canada,Tourism product ratio,Camping,Percentage,millions,88.7
-303,2014,Canada,Tourism product ratio,Other accommodation,Percentage,millions,85.5
-304,2014,Canada,Tourism product ratio,Total food and beverage services,Percentage,millions,19.0
-305,2014,Canada,Tourism product ratio,Meals from accommodation,Percentage,millions,18.9
-306,2014,Canada,Tourism product ratio,Meals from restaurants,Percentage,millions,18.8
-307,2014,Canada,Tourism product ratio,Alcoholic beverages from accommodation,Percentage,millions,19.9
-308,2014,Canada,Tourism product ratio,Alcoholic beverages from restaurants,Percentage,millions,19.9
-309,2014,Canada,Tourism product ratio,Meals and alcoholic beverages from other tourism industries,Percentage,millions,19.2
-310,2014,Canada,Tourism product ratio,Total other tourism products,Percentage,millions,40.8
-311,2014,Canada,Tourism product ratio,Recreation and entertainment,Percentage,millions,19.7
-312,2014,Canada,Tourism product ratio,Travel services,Percentage,millions,98.0
-313,2014,Canada,Tourism product ratio,Convention fees,Percentage,millions,88.9
-314,2014,Canada,Tourism product ratio,Pre-trip expenses,Percentage,millions,100.0
-315,2014,Canada,Tourism product ratio,Total other products,Percentage,millions,0.4
-316,2014,Canada,Tourism product ratio,Groceries,Percentage,millions,4.6
-317,2014,Canada,Tourism product ratio,"Beer, wine, and liquor from stores",Percentage,millions,4.6
-318,2014,Canada,Tourism product ratio,Urban transit and parking,Percentage,millions,5.4
-319,2014,Canada,Tourism product ratio,Miscellaneous products,Percentage,millions,0.2
 3200,2014,British Columbia,Total domestic supply,Total tourism expenditures,Dollars,millions,421110.5
 3201,2014,British Columbia,Total domestic supply,Total tourism products,Dollars,millions,33191.2
 3202,2014,British Columbia,Total domestic supply,Total transportation,Dollars,millions,14468.3
@@ -506,38 +474,6 @@
 3472,2014,British Columbia,International imports,Total food and beverage services,Dollars,millions,1607.0
 3478,2014,British Columbia,International imports,Total other tourism products,Dollars,millions,775.8
 3483,2014,British Columbia,International imports,Total other products,Dollars,millions,1171.5
-3488,2014,British Columbia,Tourism product ratio,Total tourism expenditures,Percentage,millions,3.7
-3489,2014,British Columbia,Tourism product ratio,Total tourism products,Percentage,millions,40.2
-3490,2014,British Columbia,Tourism product ratio,Total transportation,Percentage,millions,44.4
-3491,2014,British Columbia,Tourism product ratio,Passenger air transport,Percentage,millions,88.6
-3492,2014,British Columbia,Tourism product ratio,Passenger rail transport,Percentage,millions,93.5
-3493,2014,British Columbia,Tourism product ratio,Passenger water transport,Percentage,millions,76.5
-3494,2014,British Columbia,Tourism product ratio,"Interurban, charter and tour bus transport",Percentage,millions,40.7
-3495,2014,British Columbia,Tourism product ratio,Taxis,Percentage,millions,21.5
-3496,2014,British Columbia,Tourism product ratio,Vehicle rental,Percentage,millions,46.9
-3497,2014,British Columbia,Tourism product ratio,Vehicle repairs and parts,Percentage,millions,19.0
-3498,2014,British Columbia,Tourism product ratio,Vehicle fuel,Percentage,millions,18.9
-3499,2014,British Columbia,Tourism product ratio,Total accommodation,Percentage,millions,93.8
-3500,2014,British Columbia,Tourism product ratio,Hotels,Percentage,millions,93.5
-3501,2014,British Columbia,Tourism product ratio,Motels,Percentage,millions,98.2
-3502,2014,British Columbia,Tourism product ratio,Camping,Percentage,millions,92.8
-3503,2014,British Columbia,Tourism product ratio,Other accommodation,Percentage,millions,94.0
-3504,2014,British Columbia,Tourism product ratio,Total food and beverage services,Percentage,millions,20.7
-3505,2014,British Columbia,Tourism product ratio,Meals from accommodation,Percentage,millions,20.6
-3506,2014,British Columbia,Tourism product ratio,Meals from restaurants,Percentage,millions,20.3
-3507,2014,British Columbia,Tourism product ratio,Alcoholic beverages from accommodation,Percentage,millions,23.0
-3508,2014,British Columbia,Tourism product ratio,Alcoholic beverages from restaurants,Percentage,millions,23.0
-3509,2014,British Columbia,Tourism product ratio,Meals and alcoholic beverages from other tourism industries,Percentage,millions,20.9
-3510,2014,British Columbia,Tourism product ratio,Total other tourism products,Percentage,millions,44.4
-3511,2014,British Columbia,Tourism product ratio,Recreation and entertainment,Percentage,millions,25.4
-3512,2014,British Columbia,Tourism product ratio,Travel services,Percentage,millions,98.0
-3513,2014,British Columbia,Tourism product ratio,Convention fees,Percentage,millions,93.5
-3514,2014,British Columbia,Tourism product ratio,Pre-trip expenses,Percentage,millions,100.0
-3515,2014,British Columbia,Tourism product ratio,Total other products,Percentage,millions,0.6
-3516,2014,British Columbia,Tourism product ratio,Groceries,Percentage,millions,6.1
-3517,2014,British Columbia,Tourism product ratio,"Beer, wine, and liquor from stores",Percentage,millions,6.2
-3518,2014,British Columbia,Tourism product ratio,Urban transit and parking,Percentage,millions,9.8
-3519,2014,British Columbia,Tourism product ratio,Miscellaneous products,Percentage,millions,0.3
 4480,2017,Canada,Total domestic supply,Total tourism expenditures,Dollars,millions,3910989.7
 4481,2017,Canada,Total domestic supply,Total tourism products,Dollars,millions,234359.8
 4482,2017,Canada,Total domestic supply,Total transportation,Dollars,millions,102377.5
@@ -776,38 +712,6 @@
 4752,2017,Canada,International imports,Total food and beverage services,Dollars,millions,8783.6
 4758,2017,Canada,International imports,Total other tourism products,Dollars,millions,4069.2
 4763,2017,Canada,International imports,Total other products,Dollars,millions,6174.7
-4768,2017,Canada,Tourism product ratio,Total tourism expenditures,Percentage,millions,2.5
-4769,2017,Canada,Tourism product ratio,Total tourism products,Percentage,millions,34.8
-4770,2017,Canada,Tourism product ratio,Total transportation,Percentage,millions,35.1
-4771,2017,Canada,Tourism product ratio,Passenger air transport,Percentage,millions,88.4
-4772,2017,Canada,Tourism product ratio,Passenger rail transport,Percentage,millions,93.4
-4773,2017,Canada,Tourism product ratio,Passenger water transport,Percentage,millions,59.6
-4774,2017,Canada,Tourism product ratio,"Interurban, charter and tour bus transport",Percentage,millions,36.0
-4775,2017,Canada,Tourism product ratio,Taxis,Percentage,millions,16.6
-4776,2017,Canada,Tourism product ratio,Vehicle rental,Percentage,millions,38.1
-4777,2017,Canada,Tourism product ratio,Vehicle repairs and parts,Percentage,millions,17.5
-4778,2017,Canada,Tourism product ratio,Vehicle fuel,Percentage,millions,17.4
-4779,2017,Canada,Tourism product ratio,Total accommodation,Percentage,millions,90.5
-4780,2017,Canada,Tourism product ratio,Hotels,Percentage,millions,90.1
-4781,2017,Canada,Tourism product ratio,Motels,Percentage,millions,82.3
-4782,2017,Canada,Tourism product ratio,Camping,Percentage,millions,94.2
-4783,2017,Canada,Tourism product ratio,Other accommodation,Percentage,millions,96.9
-4784,2017,Canada,Tourism product ratio,Total food and beverage services,Percentage,millions,18.9
-4785,2017,Canada,Tourism product ratio,Meals from accommodation,Percentage,millions,19.2
-4786,2017,Canada,Tourism product ratio,Meals from restaurants,Percentage,millions,18.9
-4787,2017,Canada,Tourism product ratio,Alcoholic beverages from accommodation,Percentage,millions,18.8
-4788,2017,Canada,Tourism product ratio,Alcoholic beverages from restaurants,Percentage,millions,19.2
-4789,2017,Canada,Tourism product ratio,Meals and alcoholic beverages from other tourism industries,Percentage,millions,18.8
-4790,2017,Canada,Tourism product ratio,Total other tourism products,Percentage,millions,43.6
-4791,2017,Canada,Tourism product ratio,Recreation and entertainment,Percentage,millions,22.3
-4792,2017,Canada,Tourism product ratio,Travel services,Percentage,millions,98.0
-4793,2017,Canada,Tourism product ratio,Convention fees,Percentage,millions,91.7
-4794,2017,Canada,Tourism product ratio,Pre-trip expenses,Percentage,millions,100.0
-4795,2017,Canada,Tourism product ratio,Total other products,Percentage,millions,0.4
-4796,2017,Canada,Tourism product ratio,Groceries,Percentage,millions,4.9
-4797,2017,Canada,Tourism product ratio,"Beer, wine, and liquor from stores",Percentage,millions,4.9
-4798,2017,Canada,Tourism product ratio,Urban transit and parking,Percentage,millions,4.9
-4799,2017,Canada,Tourism product ratio,Miscellaneous products,Percentage,millions,0.2
 7680,2017,British Columbia,Total domestic supply,Total tourism expenditures,Dollars,millions,483396.0
 7681,2017,British Columbia,Total domestic supply,Total tourism products,Dollars,millions,39301.4
 7682,2017,British Columbia,Total domestic supply,Total transportation,Dollars,millions,16164.5
@@ -1045,35 +949,3 @@
 7952,2017,British Columbia,International imports,Total food and beverage services,Dollars,millions,1723.3
 7958,2017,British Columbia,International imports,Total other tourism products,Dollars,millions,734.7
 7963,2017,British Columbia,International imports,Total other products,Dollars,millions,1009.0
-7968,2017,British Columbia,Tourism product ratio,Total tourism expenditures,Percentage,millions,4.0
-7969,2017,British Columbia,Tourism product ratio,Total tourism products,Percentage,millions,42.7
-7970,2017,British Columbia,Tourism product ratio,Total transportation,Percentage,millions,45.5
-7971,2017,British Columbia,Tourism product ratio,Passenger air transport,Percentage,millions,91.4
-7972,2017,British Columbia,Tourism product ratio,Passenger rail transport,Percentage,millions,93.3
-7973,2017,British Columbia,Tourism product ratio,Passenger water transport,Percentage,millions,68.6
-7974,2017,British Columbia,Tourism product ratio,"Interurban, charter and tour bus transport",Percentage,millions,41.8
-7975,2017,British Columbia,Tourism product ratio,Taxis,Percentage,millions,18.2
-7976,2017,British Columbia,Tourism product ratio,Vehicle rental,Percentage,millions,52.2
-7977,2017,British Columbia,Tourism product ratio,Vehicle repairs and parts,Percentage,millions,19.4
-7978,2017,British Columbia,Tourism product ratio,Vehicle fuel,Percentage,millions,19.3
-7979,2017,British Columbia,Tourism product ratio,Total accommodation,Percentage,millions,96.4
-7980,2017,British Columbia,Tourism product ratio,Hotels,Percentage,millions,96.4
-7981,2017,British Columbia,Tourism product ratio,Motels,Percentage,millions,98.5
-7982,2017,British Columbia,Tourism product ratio,Camping,Percentage,millions,94.2
-7983,2017,British Columbia,Tourism product ratio,Other accommodation,Percentage,millions,96.9
-7984,2017,British Columbia,Tourism product ratio,Total food and beverage services,Percentage,millions,22.2
-7985,2017,British Columbia,Tourism product ratio,Meals from accommodation,Percentage,millions,22.5
-7986,2017,British Columbia,Tourism product ratio,Meals from restaurants,Percentage,millions,22.1
-7987,2017,British Columbia,Tourism product ratio,Alcoholic beverages from accommodation,Percentage,millions,22.8
-7988,2017,British Columbia,Tourism product ratio,Alcoholic beverages from restaurants,Percentage,millions,22.7
-7989,2017,British Columbia,Tourism product ratio,Meals and alcoholic beverages from other tourism industries,Percentage,millions,22.3
-7990,2017,British Columbia,Tourism product ratio,Total other tourism products,Percentage,millions,50.4
-7991,2017,British Columbia,Tourism product ratio,Recreation and entertainment,Percentage,millions,30.1
-7992,2017,British Columbia,Tourism product ratio,Travel services,Percentage,millions,98.0
-7993,2017,British Columbia,Tourism product ratio,Convention fees,Percentage,millions,96.4
-7994,2017,British Columbia,Tourism product ratio,Pre-trip expenses,Percentage,millions,100.0
-7995,2017,British Columbia,Tourism product ratio,Total other products,Percentage,millions,0.6
-7996,2017,British Columbia,Tourism product ratio,Groceries,Percentage,millions,7.0
-7997,2017,British Columbia,Tourism product ratio,"Beer, wine, and liquor from stores",Percentage,millions,7.2
-7998,2017,British Columbia,Tourism product ratio,Urban transit and parking,Percentage,millions,7.6
-7999,2017,British Columbia,Tourism product ratio,Miscellaneous products,Percentage,millions,0.3
