@@ -11,7 +11,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 We would like to analyze and compare various topics in relation to each other in our chosen tourism dataset. This could include comparing our chosen ideas from 2014 to 2017, as well as being able to compare the amount of tourism spending in different categories within the chosen dataset. As we live in an area with high tourism rates we would like to explore the growth trends of overall tourism in BC in comparison to Canada. We would like to explore:
 - Where are the majority of BCs tourists coming from: domestically or out-of-province? 
-- What is BCs overall tourism growth rate from 2014-2017 compared to Canada's?
+- Which provinces have the highest growth rates from 2014-2017?
 - Are people spending more money on hotels or campsites when they visit? Is this different from Canada’s hotel/campsite statistics? 
 
 Another point of interest would be tourist spending on alcohol. As well as, looking at what percentage of Canada’s profit from tourism comes from BC and which categories bring the most profit. We believe we could make a very interesting dashboard with our data set.
